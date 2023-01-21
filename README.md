@@ -151,11 +151,11 @@ We went to the temple on a Saturday morning and had our darshan within 30 minute
 
 ## Output:
 ![Output](image/kanchipuramimage.png)
-![Amman](image/amman.png)
+![Amman Temple](image/amman.png)
 ![School](image/school.png)
 ![Hospital](image/hospital.png)
-![Busstand](busstand.png)
-![Jewellery](image/jewellery.png)
+![Bus stand](image/busstand.png)
+![Jewellery Shop](image/jewellery.png)
 
 ## Result:
 Successfully Completed.
