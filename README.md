@@ -150,12 +150,13 @@ We went to the temple on a Saturday morning and had our darshan within 30 minute
 ```
 
 ## Output:
-![Output](image/kanchipuramimage.png)
-![Amman Temple](image/amman.png)
-![School](image/school.png)
-![Hospital](image/hospital.png)
-![Bus stand](image/busstand.png)
-![Jewellery Shop](image/jewellery.png)
+![kanchipuramimage](https://user-images.githubusercontent.com/103949835/213880708-a08caad0-4170-46a4-9a21-9be22fed701f.png)
+![Amman Temple](https://user-images.githubusercontent.com/103949835/213880742-1ef9c558-e084-4bfb-a5ac-ea903c903f15.png)
+![School](https://user-images.githubusercontent.com/103949835/213880760-466786bb-4a5d-4082-8e1e-f16f9c09a506.png)
+![Hospital](https://user-images.githubusercontent.com/103949835/213880787-c4dd5693-d2b1-4713-8453-e2b477c40c9c.png)
+![Bus stand](https://user-images.githubusercontent.com/103949835/213880797-2e379a03-5fa5-4da6-9424-4c517adc960e.png)
+![Jewellery Shop](https://user-images.githubusercontent.com/103949835/213880806-0e34d8b1-7c56-42e7-9175-19916fe89aeb.png)
+
 
 ## Result:
 Successfully Completed.
